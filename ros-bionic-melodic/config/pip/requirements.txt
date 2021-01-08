@@ -1,0 +1,14 @@
+llvmlite==0.31.0
+tqdm==4.52.0
+numpy
+torch==1.6.0
+torchvision==0.7.0
+pyyaml
+librosa==0.6.3
+mir_eval
+matplotlib
+tensorboardX
+Pillow
+ffmpeg-normalize
+numba==0.48
+SoundFile==0.10.2
